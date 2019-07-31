@@ -1,0 +1,148 @@
+.butn {
+  background: #a197c4;
+  background-image: -webkit-linear-gradient(top, #a197c4, #a197c4);
+  background-image: -moz-linear-gradient(top, #a197c4, #a197c4);
+  background-image: -ms-linear-gradient(top, #a197c4, #a197c4);
+  background-image: -o-linear-gradient(top, #a197c4, #a197c4);
+  background-image: linear-gradient(to bottom, #a197c4, #a197c4);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #77718f;
+  background-image: -webkit-linear-gradient(top, #77718f, #77718f);
+  background-image: -moz-linear-gradient(top, #77718f, #77718f);
+  background-image: -ms-linear-gradient(top, #77718f, #77718f);
+  background-image: -o-linear-gradient(top, #77718f, #77718f);
+  background-image: linear-gradient(to bottom, #77718f, #77718f);
+  text-decoration: none;
+}
+
+.description-welcome {
+  text-align: center;
+  color: #63707e;
+  font-size: 20px;}
+
+body{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+  }
+
+.bottom-container {
+  background-color: #63707e;
+  margin-right: 0;
+  margin-left: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.heading {
+  background-color: #f2f6f5;
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 0;
+  height: 700px;
+  position: relative;
+  padding-top: 100px;}
+
+
+h1 {
+  font-family: 'Handlee', cursive;
+  color: #63707e;
+  font-size: 562.5%;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  color: #63707e;
+}
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+  color: #63707e;
+}
+
+hr {
+  border-color: #c8dad3;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+  height: 0;
+  opacity: .5;
+}
+
+.Entrepreneur {
+  height: 150px;
+  width: 150px;
+  float: left;
+  padding-right: 30px;
+}
+
+
+.MAT {
+  text-align: center;
+  color: #63707e;
+  margin-bottom: 0;
+}
+
+
+.middle-container {
+background-color: #eeeeee;
+height: 1100px;
+position: relative;
+text-align: center;
+}
+
+.skills {
+  text-align:justify;
+  width: 61%;
+  margin:auto;
+  line-height: 2;
+}
+
+.skills-writer {
+  padding-top: 30px;
+}
+
+.skills-entrepreneur{
+  padding-top: 30px;
+}
+
+.mountain {
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  top: 300px;
+}
+
+.profile {
+padding-top: 30px;
+}
+
+.profile-picture {
+  height: 125px;
+  width: 125px;
+}
+
+
+.web-development {
+  width: 150px;
+  height: 150px;
+  float: left;
+  padding-right: 30px;
+}
+
+.writing {
+  width: 150px;
+  height: 150px;
+  float: right;
+  padding-left: 30px;
+}
